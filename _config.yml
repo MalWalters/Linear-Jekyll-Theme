@@ -4,3 +4,5 @@ paginate: 10
 
 theme: jekyll-theme-minimal
 remote_theme: MalWalters/Linear-Jekyll-Theme
+plugins:
+  - jekyll-remote-theme
