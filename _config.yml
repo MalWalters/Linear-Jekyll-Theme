@@ -3,3 +3,4 @@ description: Linear template for Jekyll
 paginate: 10
 
 theme: jekyll-theme-minimal
+remote_theme: MalWalters/Linear-Jekyll-Theme
